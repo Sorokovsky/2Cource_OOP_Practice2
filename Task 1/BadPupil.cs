@@ -1,31 +1,31 @@
 namespace Task_1
 {
-    public class GoodPupil : Pupil
+    public class BadPupil : Pupil
     {
-        public GoodPupil(string name) : base(name)
+        public BadPupil(string name) : base(name)
         {
         }
 
         public override void Read()
         {
-            Console.WriteLine("Good pupil reading.");
+            Console.WriteLine("Bad pupil reading.");
             
         }
 
         public override void Write()
         {
-            Console.WriteLine("Good pupil writting");
+            Console.WriteLine("Bad pupil writting");
             
         }
 
         public override void Relax()
         {
-            Console.WriteLine("Good pupil relaxing.");
+            Console.WriteLine("Bad pupil relaxing.");
         }
 
         public override void Study()
         {
-            Console.WriteLine("Good pupil studying.");
+            Console.WriteLine("Bad pupil studying.");
             
         }
     }
