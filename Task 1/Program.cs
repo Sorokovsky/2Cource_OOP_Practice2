@@ -6,6 +6,7 @@ public static class Program
         while(true)
         {
             int operation = ChooseOperation();
+            
         }
     }
 
