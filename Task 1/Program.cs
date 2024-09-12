@@ -5,8 +5,17 @@ public static class Program
     {
         while(true)
         {
-
+            int operation = ChooseOperation();
         }
+    }
+
+    public static int ChooseOperation()
+    {
+        Console.WriteLine("Choose operation.");
+        Console.WriteLine("0-Exit.");
+        Console.WriteLine("1-Create class room.");
+        Console.Write(">> ");
+        return Convert.ToInt32(Console.ReadLine());
     }
 
     public static Pupil EnterPupil() {
@@ -21,7 +30,12 @@ public static class Program
         {
             case 1:
                 return new Pupil(name);
-
+            case 2:
+                return new ExelentPupil(name);
+            case 3:
+                return new GoodPupil(name);
+            case 4:
+                return new BadPupil(name);
             default:
                 return new Pupil(name);
         }
