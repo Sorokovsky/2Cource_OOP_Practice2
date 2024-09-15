@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\progects\\OOP\\2_course\\practice 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{845C85F9-7A98-4C24-BC53-498BED8E1538}|Task 1\\Task 1.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{845C85F9-7A98-4C24-BC53-498BED8E1538}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{845C85F9-7A98-4C24-BC53-498BED8E1538}|Task 1\\Task 1.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 1\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{845C85F9-7A98-4C24-BC53-498BED8E1538}|Task 1\\Task 1.csproj|solutionrelative:task 1\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ClassRoom.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 1\\ClassRoom.cs",
-              "RelativeDocumentMoniker": "Task 1\\ClassRoom.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 1\\ClassRoom.cs",
-              "RelativeToolTip": "Task 1\\ClassRoom.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABpAAAA",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
+              "RelativeDocumentMoniker": "Task 2\\Car.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
+              "RelativeToolTip": "Task 2\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T16:18:45.152Z",
+              "WhenOpened": "2024-09-15T18:05:41.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 1\\Program.cs",
-              "RelativeDocumentMoniker": "Task 1\\Program.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 1\\Program.cs",
-              "RelativeToolTip": "Task 1\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAABUAAAApAAAA",
+              "DocumentIndex": 1,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
+              "RelativeDocumentMoniker": "Task 2\\Plane.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
+              "RelativeToolTip": "Task 2\\Plane.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAAD0AAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T16:12:35.193Z",
+              "WhenOpened": "2024-09-15T17:41:25.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task 2\\Vehicle.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
+              "RelativeToolTip": "Task 2\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T17:03:41.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T16:41:11.784Z",
               "EditorCaption": ""
             }
           ]
