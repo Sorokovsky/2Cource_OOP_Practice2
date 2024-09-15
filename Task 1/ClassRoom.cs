@@ -4,7 +4,7 @@ namespace Task_1
     {
         private LinkedList<Pupil> _pupils = new();
 
-        public ClassRoom(Pupil first, Pupil second, Pupil third, Pupil forth)
+        public ClassRoom(Pupil first = null, Pupil second = null, Pupil third = null, Pupil forth = null)
         {
             if(first != null) {
                 _pupils.AddLast(first);

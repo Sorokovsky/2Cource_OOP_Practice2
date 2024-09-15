@@ -6,7 +6,28 @@ public static class Program
         while(true)
         {
             int operation = ChooseOperation();
-            
+            switch(operation)
+            {
+                case 0:
+                    {
+                        return;
+                    }
+                case 1:
+                    {
+                        Pupil first = EnterPupil();
+                        Pupil second = EnterPupil();
+                        Pupil third = EnterPupil();
+                        Pupil fourth = EnterPupil();
+                        ClassRoom classRoom = new ClassRoom(first, second, third, fourth);
+                        classRoom.Show();
+                        break;
+                    }
+                default:
+                    {
+                        Console.WriteLine("Unknown operation. Try again.");
+                        break;
+                    }
+            }
         }
     }
 
