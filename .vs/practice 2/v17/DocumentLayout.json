@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "D:\\progects\\OOP\\2_course\\practice 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\combination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\combination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 3\\expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|solutionrelative:task 3\\expertdocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 3\\prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|solutionrelative:task 3\\prodocumentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 3\\documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D61DF2F-1421-48DF-B9D3-11F196B6F0C2}|Task 3\\Task 3.csproj|solutionrelative:task 3\\documentworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +34,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExpertDocumentWorker.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\ExpertDocumentWorker.cs",
-              "RelativeDocumentMoniker": "Task 3\\ExpertDocumentWorker.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\ExpertDocumentWorker.cs",
-              "RelativeToolTip": "Task 3\\ExpertDocumentWorker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Combination.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Combination.cs",
+              "RelativeDocumentMoniker": "Individual\\Combination.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Combination.cs",
+              "RelativeToolTip": "Individual\\Combination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:22:18.166Z",
+              "WhenOpened": "2024-09-16T17:50:20.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProDocumentWorker.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\ProDocumentWorker.cs",
-              "RelativeDocumentMoniker": "Task 3\\ProDocumentWorker.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\ProDocumentWorker.cs",
-              "RelativeToolTip": "Task 3\\ProDocumentWorker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Title": "Element.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Element.cs",
+              "RelativeDocumentMoniker": "Individual\\Element.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Element.cs",
+              "RelativeToolTip": "Individual\\Element.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAMwEIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:15:16.587Z",
+              "WhenOpened": "2024-09-16T17:38:55.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DocumentWorker.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\DocumentWorker.cs",
-              "RelativeDocumentMoniker": "Task 3\\DocumentWorker.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\DocumentWorker.cs",
-              "RelativeToolTip": "Task 3\\DocumentWorker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T13:08:15.561Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\Program.cs",
-              "RelativeDocumentMoniker": "Task 3\\Program.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 3\\Program.cs",
-              "RelativeToolTip": "Task 3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Program.cs",
+              "RelativeDocumentMoniker": "Individual\\Program.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Program.cs",
+              "RelativeToolTip": "Individual\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T12:59:22.448Z",
+              "WhenOpened": "2024-09-16T17:36:47.976Z",
               "EditorCaption": ""
             }
           ]
