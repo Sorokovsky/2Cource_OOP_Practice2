@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\progects\\OOP\\2_course\\practice 2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|d:\\progects\\oop\\2_course\\practice 2\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{29117FD3-7374-4A23-9BAD-A305551DE004}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +42,65 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
-              "RelativeDocumentMoniker": "Task 2\\Car.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
-              "RelativeToolTip": "Task 2\\Car.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T18:05:41.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Plane.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
-              "RelativeDocumentMoniker": "Task 2\\Plane.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
-              "RelativeToolTip": "Task 2\\Plane.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAAAD0AAAA4AAAA",
+              "Title": "Ship.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Ship.cs",
+              "RelativeDocumentMoniker": "Task 2\\Ship.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Ship.cs",
+              "RelativeToolTip": "Task 2\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T17:41:25.551Z",
+              "WhenOpened": "2024-09-16T12:38:16.699Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
-              "RelativeDocumentMoniker": "Task 2\\Vehicle.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
-              "RelativeToolTip": "Task 2\\Vehicle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAqAAAA",
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
+              "RelativeDocumentMoniker": "Task 2\\Car.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Car.cs",
+              "RelativeToolTip": "Task 2\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-15T17:03:41.617Z",
+              "WhenOpened": "2024-09-16T12:36:40.838Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
+              "RelativeDocumentMoniker": "Task 2\\Plane.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Plane.cs",
+              "RelativeToolTip": "Task 2\\Plane.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:33:04.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Task 2\\Vehicle.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Vehicle.cs",
+              "RelativeToolTip": "Task 2\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T12:28:06.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Program.cs",
               "RelativeDocumentMoniker": "Task 2\\Program.cs",
               "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Task 2\\Program.cs",
               "RelativeToolTip": "Task 2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T16:41:11.784Z",
               "EditorCaption": ""
