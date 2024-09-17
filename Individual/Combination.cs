@@ -2,19 +2,20 @@
 {
     public class Combination : Element
     {
+        public new int OutCount { get { return base.OutCount; } init { base.OutCount = value; } }
+
         public Combination() : base()
         {
-            OutCount = 1;
         }
 
         public Combination(string name) : base(name)
         {
-            OutCount = 1;
         }
 
-        public Combination(string name, int inCount, int outCount) : base(name, inCount, outCount)
+        public Combination(string name, int inCount) : base(name, inCount, 1)
         {
-            OutCount = 1;
         }
+
+        
     }
 }
