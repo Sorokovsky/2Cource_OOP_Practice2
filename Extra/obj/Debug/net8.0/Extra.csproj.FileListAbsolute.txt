@@ -1,0 +1,15 @@
+D:\progects\OOP\2_course\practice 2\Extra\bin\Debug\net8.0\Extra.exe
+D:\progects\OOP\2_course\practice 2\Extra\bin\Debug\net8.0\Extra.deps.json
+D:\progects\OOP\2_course\practice 2\Extra\bin\Debug\net8.0\Extra.runtimeconfig.json
+D:\progects\OOP\2_course\practice 2\Extra\bin\Debug\net8.0\Extra.dll
+D:\progects\OOP\2_course\practice 2\Extra\bin\Debug\net8.0\Extra.pdb
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.GeneratedMSBuildEditorConfig.editorconfig
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.AssemblyInfoInputs.cache
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.AssemblyInfo.cs
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.csproj.CoreCompileInputs.cache
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.sourcelink.json
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.dll
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\refint\Extra.dll
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.pdb
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\Extra.genruntimeconfig.cache
+D:\progects\OOP\2_course\practice 2\Extra\obj\Debug\net8.0\ref\Extra.dll

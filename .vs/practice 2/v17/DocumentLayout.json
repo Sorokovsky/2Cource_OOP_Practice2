@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\progects\\OOP\\2_course\\practice 2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\combination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\combination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|d:\\progects\\oop\\2_course\\practice 2\\extra\\decimalstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|solutionrelative:extra\\decimalstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|d:\\progects\\oop\\2_course\\practice 2\\extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|solutionrelative:extra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|d:\\progects\\oop\\2_course\\practice 2\\individual\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{666099F4-7E9B-40BC-98B9-8ADB15F8F619}|Individual\\Individual.csproj|solutionrelative:individual\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|d:\\progects\\oop\\2_course\\practice 2\\extra\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4251A5-A141-46AD-B695-FAEACC1C8C4D}|Extra\\Extra.csproj|solutionrelative:extra\\string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Combination.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Combination.cs",
-              "RelativeDocumentMoniker": "Individual\\Combination.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Combination.cs",
-              "RelativeToolTip": "Individual\\Combination.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAA5AAAA",
+              "Title": "DecimalString.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\DecimalString.cs",
+              "RelativeDocumentMoniker": "Extra\\DecimalString.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\DecimalString.cs",
+              "RelativeToolTip": "Extra\\DecimalString.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAcwC8AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T17:50:20.709Z",
+              "WhenOpened": "2024-09-17T17:11:58.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Element.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Element.cs",
-              "RelativeDocumentMoniker": "Individual\\Element.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Element.cs",
-              "RelativeToolTip": "Individual\\Element.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAAADEAAAAhAAAA",
+              "Title": "String.cs",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\String.cs",
+              "RelativeDocumentMoniker": "Extra\\String.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\String.cs",
+              "RelativeToolTip": "Extra\\String.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T17:38:55.558Z",
+              "WhenOpened": "2024-09-17T16:57:55.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Program.cs",
-              "RelativeDocumentMoniker": "Individual\\Program.cs",
-              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Individual\\Program.cs",
-              "RelativeToolTip": "Individual\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "DocumentMoniker": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\Program.cs",
+              "RelativeDocumentMoniker": "Extra\\Program.cs",
+              "ToolTip": "D:\\progects\\OOP\\2_course\\practice 2\\Extra\\Program.cs",
+              "RelativeToolTip": "Extra\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-16T17:36:47.976Z",
+              "WhenOpened": "2024-09-17T16:55:40.407Z",
               "EditorCaption": ""
             }
           ]
