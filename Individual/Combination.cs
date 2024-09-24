@@ -1,7 +1,9 @@
 ﻿namespace Individual
 {
-    public class Combination : Element
+    public abstract class Combination : Element
     {
+        public abstract string Operation { get; init; }
+
         private int[] _inputs;
 
         public new int OutCount { get { return base.OutCount; } init { base.OutCount = value; } }
@@ -27,20 +29,7 @@
             }
         }
 
-        public int GetOutput()
-        {
-            int result = 0;
-            int first, second, third, forth;
-            if (InCount == 4)
-            {
-                first = _inputs.ElementAt(3) & _inputs.ElementAt(1);
-                second = _inputs.ElementAt(2) ^ _inputs.ElementAt(3) ^ _inputs.ElementAt(2) ^ _inputs.ElementAt(0);
-                third = _inputs.ElementAt(3) | _inputs.ElementAt(1) | _inputs.ElementAt(0);
-                forth = _inputs.ElementAt(3) | _inputs.ElementAt(2) | _inputs.ElementAt(0);
-                result = first | second | third | forth;
-            }
-            return result;
-        }
+        public abstract int GetOutput();
 
         public override void Show()
         {
