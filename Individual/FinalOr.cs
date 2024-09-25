@@ -2,10 +2,18 @@ namespace Individual
 {
     public class FinalOr
     {
-        private AndCombinatin _andCombinatin;
-        private XorCombination _xorCombination;
-        private And2Combinatin _and2Combinatin;
-        private OrCombination _orCombination;
+        private readonly AndCombinatin _andCombinatin;
+        private readonly XorCombination _xorCombination;
+        private readonly And2Combinatin _and2Combinatin;
+        private readonly OrCombination _orCombination;
+        
+        public FinalOr()
+        {
+            _andCombinatin = new AndCombinatin();
+            _xorCombination = new XorCombination();
+            _and2Combinatin = new And2Combinatin();
+            _orCombination = new OrCombination();
+        }
 
         public int Result(int x0, int x1, int x2, int x3)
         {
