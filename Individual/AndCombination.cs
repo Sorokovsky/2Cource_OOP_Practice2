@@ -1,6 +1,6 @@
 namespace Individual
 {
-    public class AndCombinatin : Element
+    public class AndCombination : Element
     {
         public int Result(int x3, int x1)
         {
