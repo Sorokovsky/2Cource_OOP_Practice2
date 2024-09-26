@@ -7,7 +7,7 @@ public static class Program
     {
         FinalOr finalOr = new FinalOr();
         Console.WriteLine("| x0 | x1 | x2 | x3 | y |");
-        for(int b = 0; b < 16; b++)
+        for(int b = 0; b < 15; b++)
         {
             int x0 = 0, x1 = 0, x2 = 0, x3 = 0;
             for (int k = 0; k <= 3; k++)
@@ -19,11 +19,11 @@ public static class Program
                         {
                             if (c == 0)
                             {
-                                x0 = 1;
+                                x0 = 0;
                             }
                             else
                             {
-                                x0 = 0;
+                                x0 = 1;
                             }
                             break;
                         }
@@ -31,11 +31,11 @@ public static class Program
                         {
                             if (c == 0)
                             {
-                                x1 = 1;
+                                x1 = 0;
                             }
                             else
                             {
-                                x1 = 0;
+                                x1 = 1;
                             }
                             break;
                         }
@@ -43,27 +43,27 @@ public static class Program
                         {
                             if(c == 0)
                             {
-                                x2 = 1;
+                                x2 = 0;
                             }
                             else
                             {
-                                x2 = 0;
+                                x2 = 1;
                             }
                             break;
                         }
                     case 3:
                         if(c == 0)
                         {
-                            x3 = 1;
+                            x3 = 0;
                         }
                         else
                         {
-                            x3 = 0;
+                            x3 = 1;
                         }
                         break;
                 }
-                DisplayRow(x0, x1, x2, x3, finalOr.Result(x0, x1, x2, x3));
             }
+            DisplayRow(x0, x1, x2, x3, finalOr.Result(x0, x1, x2, x3));
         }
         //(int x0, int x1, int x2, int x3) = Generate();
     }

@@ -1,15 +1,30 @@
-D:\progects\OOP\2_course\practice 2\Individual\bin\Debug\net8.0\Individual.exe
-D:\progects\OOP\2_course\practice 2\Individual\bin\Debug\net8.0\Individual.deps.json
-D:\progects\OOP\2_course\practice 2\Individual\bin\Debug\net8.0\Individual.runtimeconfig.json
-D:\progects\OOP\2_course\practice 2\Individual\bin\Debug\net8.0\Individual.dll
-D:\progects\OOP\2_course\practice 2\Individual\bin\Debug\net8.0\Individual.pdb
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.GeneratedMSBuildEditorConfig.editorconfig
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.AssemblyInfoInputs.cache
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.AssemblyInfo.cs
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.csproj.CoreCompileInputs.cache
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.sourcelink.json
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.dll
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\refint\Individual.dll
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.pdb
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\Individual.genruntimeconfig.cache
-D:\progects\OOP\2_course\practice 2\Individual\obj\Debug\net8.0\ref\Individual.dll
+D:/progects/OOP/2_course/practice 2/Individual/bin/Debug/net8.0/Individual.exe
+D:/progects/OOP/2_course/practice 2/Individual/bin/Debug/net8.0/Individual.deps.json
+D:/progects/OOP/2_course/practice 2/Individual/bin/Debug/net8.0/Individual.runtimeconfig.json
+D:/progects/OOP/2_course/practice 2/Individual/bin/Debug/net8.0/Individual.dll
+D:/progects/OOP/2_course/practice 2/Individual/bin/Debug/net8.0/Individual.pdb
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.GeneratedMSBuildEditorConfig.editorconfig
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.AssemblyInfoInputs.cache
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.AssemblyInfo.cs
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.csproj.CoreCompileInputs.cache
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.sourcelink.json
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.dll
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/refint/Individual.dll
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.pdb
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/Individual.genruntimeconfig.cache
+D:/progects/OOP/2_course/practice 2/Individual/obj/Debug/net8.0/ref/Individual.dll
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/bin/Debug/net8.0/Individual
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/bin/Debug/net8.0/Individual.deps.json
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/bin/Debug/net8.0/Individual.runtimeconfig.json
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/bin/Debug/net8.0/Individual.dll
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/bin/Debug/net8.0/Individual.pdb
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.AssemblyInfoInputs.cache
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.AssemblyInfo.cs
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.csproj.CoreCompileInputs.cache
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.sourcelink.json
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.dll
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/refint/Individual.dll
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.pdb
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/Individual.genruntimeconfig.cache
+/Users/andrijsorokovskij/Documents/2 cource/practice 2/Individual/obj/Debug/net8.0/ref/Individual.dll
